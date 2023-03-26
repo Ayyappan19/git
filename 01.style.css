@@ -1,0 +1,151 @@
+.header{
+    background-color: white;
+    padding: 10px;  
+    text-align: end;
+}
+a{
+    color: blueviolet;
+    text-decoration: none;
+    padding: 25px;    
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 20px;
+    
+}
+li{
+    
+}
+.home-page img{
+    width: 85%;
+    height: 90%;
+    position: relative;
+    left: 90px;
+}
+.img-text{
+    
+    color: white;
+    font-size: 30px;
+    letter-spacing: 1px;
+    position: relative;
+    left: 520px;
+    top: -400px;
+}
+.img-texts{
+    color: white;
+    position: relative;
+    top: -440px;
+    left: 370px;
+    font-size: 60px;
+}
+.img-para{
+    
+    margin:0 auto;
+    width: 50%;
+    background-color: white;
+    padding:25px ;
+    border-top: 4px blue solid;
+    color: blue;
+    font-size: 35px;
+    position: relative;
+    top: -310px;
+    left: -100px;
+}
+.img-para1{
+    width: 10%;
+    padding: 27px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    font-size: 35px;
+    position: relative;
+    left: 920px;
+    top: -405px;
+}
+.two-column{
+    position: relative;
+    top: -230px;
+}
+.img-one{
+    float: left;
+    margin-left: 70px;
+    position: relative;
+    left: 20px;
+}
+.img-two{
+    float: right;
+    width: 30%;
+    position: relative;
+    left: -350px;
+}
+.first-para{
+  
+    background-color: white;
+    color:blue;
+    position: relative;
+    top: 40px;
+    width: 240px;
+    margin: auto;
+    padding: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    line-height: 25px;
+    position: relative;
+    left: -438px;
+    top: -90px;
+    border-top: 5px solid blue;
+    border-bottom: 5px solid blue;
+}
+.first-para a{
+    position: relative;
+    left: -23px;
+}
+
+.second-para{
+   
+    width: 240px;
+    margin: auto;
+    padding: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    line-height: 25px;
+    position: relative;
+    top: -623px;
+    left: 160px;
+    background-color: white;
+    color:blue;
+    border-top: 5px solid blue;
+    border-bottom: 5px solid blue;
+}
+.second-para a{
+    position: relative;
+    left: -23px;
+}
+.two-columns{
+    position: relative;
+    top: -320px;
+}
+.img-third{
+    float: left;
+    width: 60%;
+    position: relative;
+    left: 95px;
+}
+.third-para{
+     width: 240px;
+    margin: auto;
+    padding: 20px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    line-height: 25px;
+    background-color: white;
+    color:blue;
+    border-top: 5px solid blue;
+    border-bottom: 5px solid blue;
+    position: relative;
+}
+.third-para a{
+    position: relative;
+    left: -23px;
+}
